@@ -1,7 +1,7 @@
 # PROCESADOR DE IMÁGENES — PARCIAL
 
 ## Integrantes
-
+- Castaño Alma
 - Castelao Bravo
 - Cappato Carolina
 - Chirino Florencia
